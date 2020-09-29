@@ -1,0 +1,19 @@
+{
+  "name": "loginsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/korupso/M183_loginsystem.git"
+  },
+  "author": "Joel Meccariello",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/korupso/M183_loginsystem/issues"
+  },
+  "homepage": "https://github.com/korupso/M183_loginsystem#readme"
+}
